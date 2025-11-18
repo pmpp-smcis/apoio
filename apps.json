@@ -6,7 +6,7 @@
       "description": "Assista vídeos e música no seu Android TV",
       "version": "2.0.1",
       "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/240px-YouTube_full-color_icon_%282017%29.svg.png",
-      "apkUrl": "https://example.com/youtube-tv.apk",
+      "apkUrl": "https://gitlab.com/vlb1/apps/-/raw/main/fast-speed-test-1-2-1.apk",
       "packageName": "com.google.android.youtube.tv"
     },
     {
@@ -38,4 +38,5 @@
     }
   ]
 }
+
 
