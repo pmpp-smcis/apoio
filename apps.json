@@ -3,7 +3,7 @@
     {
       "id": "app1",
       "name": "Fast Speed Test",
-      "description": "Assista vídeos e música no seu Android TV",
+      "description": "Medidor de velocidade",
       "version": "1.2.1",
       "icon": "https://testdevelocidad.info/wp-content/uploads/2018/07/fast.jpg",
       "apkUrl": "https://gitlab.com/vlb1/apps/-/raw/main/fast-speed-test-1-2-1.apk",
@@ -38,6 +38,7 @@
     }
   ]
 }
+
 
 
 
