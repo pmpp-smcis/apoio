@@ -1,0 +1,75 @@
+{
+  "apps": [
+    {
+      "id": "app1",
+      "name": "Fast Speed Test",
+      "description": "Medidor de velocidade",
+      "version": "1.2.1",
+      "icon": "https://testdevelocidad.info/wp-content/uploads/2018/07/fast.jpg",
+      "apkUrl": "https://gitlab.com/vlb1/apps/-/raw/main/fast-speed-test-1-2-1.apk",
+      "packageName": "com.netflix.Speedtest"
+    },
+    {
+      "id": "app2",
+      "name": "BlueTv",
+      "description": "Canais de tv",
+      "version": "3.4.1",
+      "icon": "https://i.ibb.co/KX68QDQ/blue-tv.png",
+      "apkUrl": "https://gitlab.com/vlb1/apps/-/raw/main/BlueTV_3.4.1_20241218_stb_apk.apk",
+      "packageName": "com.mm.droid.livetv.bluetv.mobile"
+    },
+    {
+      "id": "app3",
+      "name": "Downloader",
+      "description": "Baixar aplicativos",
+      "version": "1.2.3",
+      "icon": "https://i.ibb.co/PCTFPMK/downloader.png",
+      "apkUrl": "https://gitlab.com/vlb1/apps/-/raw/main/downloader-by-aftvnews-1-5-0.apk",
+      "packageName": "com.esaba.downloader"
+    },
+    {
+      "id": "app4",
+      "name": "UniTV",
+      "description": "Canais de tv, filmes e séries",
+      "version": "4.15.4.00",
+      "icon": "https://i.ibb.co/B5gjczDd/unitv.png",
+      "apkUrl": "https://gitlab.com/vlb1/apps/-/raw/main/unitv_RS-NPWN__1_.apk",
+      "packageName": "com.global.unitviptv"
+    },
+    {
+      "id": "app5",
+      "name": "YouCine",
+      "description": "Reprodutor de filmes e séries",
+      "version": "1.15.1",
+      "icon": "https://i.ibb.co/8DnfMG5w/youcine.png",
+      "apkUrl": "https://gitlab.com/vlb1/apps/-/raw/main/cinetv_revenda-site.apk",
+      "packageName": "com.world.youcinetv"
+    },
+    {
+      "id": "app6",
+      "name": "Open Browser",
+      "description": "Navegador",
+      "version": "2.2.1",
+      "icon": "https://i.ibb.co/MD0NTGD/open-browser.png",
+      "apkUrl": "https://gitlab.com/vlb1/apps/-/raw/main/open-browser-2-2-1-1060.apk",
+      "packageName": "com.seraphic.openinet.pre"
+    },
+    {
+      "id": "app7",
+      "name": "VLC Player",
+      "description": "Reprodutor multimídia universal",
+      "version": "3.5.4",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/VLC_icon.png/240px-VLC_icon.png",
+      "apkUrl": "https://example.com/vlc.apk",
+      "packageName": "org.videolan.vlc"
+    }
+  ],
+  "headerImage": "https://i.ibb.co/d0vScRB7/banner.png"
+}
+
+
+
+
+
+
+
